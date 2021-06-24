@@ -9,7 +9,7 @@ libpysal==4.3.5
 mapclassify==2.4.2
 matplotlib==3.3.2
 osmnx==1.0.1
-plotly==4.14.3
+plotly==4.14.1
 pysal==2.3.0
 Rtree==0.9.4
 scikit-learn==0.23.2
@@ -18,3 +18,4 @@ Shapely==1.7.1
 statsmodels==0.12.1
 sympy==1.7.1
 tqdm==4.51.0
+orca==1.5.4
